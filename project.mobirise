@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 78,
+    "uniqCompNum": 79,
     "versionPublish": "4.4.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -176,6 +176,24 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/NED/index.html\" data-toolbar=\"-mbrBtnMove\">DUTCH</a> "
         },
         {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>About myself</b></p><p><br></p><p>studies </p><p>2013-2015 Maricolen, Bruges</p><p>2015-2017 Luca school of arts, Ghent</p><p><br></p><p><br></p><p>The nature is my source of inspriration. I experiment with texture, structure, shape, lines and colours.</p><p>I try to find a new intrepetation of a image in a landscape and to play with elements of nature..</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-26",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
@@ -192,10 +210,10 @@
           "_anchor": "header6-p",
           "_params": {
             "showTitle": false,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "showArrow": true,
+            "inverse": false,
+            "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/detail05.jpg",
@@ -229,7 +247,7 @@
             }
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "process of my artwork<br>2016",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
