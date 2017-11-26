@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "siteENG-03-03_0916GOEDE VERSIE",
+    "name": "siteENG-03-03_0916versieaf!",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -173,7 +173,7 @@
           },
           "title": "Saar Cools<br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/ENG\" data-toolbar=\"-mbrBtnMove\">DUTCH</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/NED/index.html\" data-toolbar=\"-mbrBtnMove\">DUTCH</a> "
         },
         {
           "_inherit": "header2",
@@ -250,7 +250,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
+          "text1": "<strong>Address</strong><br>workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -280,7 +280,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         }
       ]
     },
@@ -1052,7 +1052,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address</strong><br>workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1082,7 +1082,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         },
         {
           "_inherit": "menu",
@@ -1503,9 +1503,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page12.html",
               "size": "",
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media2": {
@@ -1515,9 +1516,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page11.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media3": {
@@ -1527,9 +1529,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page10.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media4": {
@@ -1539,9 +1542,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "naaktmodel.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media5": {
@@ -1551,9 +1555,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page13.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media6": {
@@ -1567,19 +1572,19 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"page12.html\" class=\"text-black\" style=\"font-weight: normal;\">houten panelen</a>",
+          "title1": "<a href=\"page12.html\" class=\"text-black\" style=\"font-weight: normal;\">wooden panels</a>",
           "subtitle1": "",
           "caption1": ".",
-          "title2": "<span style=\"font-weight: normal;\"><a href=\"page11.html\" class=\"text-black\">tekeningen</a></span>",
+          "title2": "<span style=\"font-weight: normal;\"><a href=\"page11.html\" class=\"text-black\">drawings</a></span>",
           "subtitle2": "",
           "caption2": "",
-          "title3": "<span style=\"font-weight: normal;\"><a href=\"page10.html\" class=\"text-black\">schilderijen</a></span>",
-          "subtitle3": "op doek",
+          "title3": "<span style=\"font-weight: normal;\"><a href=\"page10.html\" class=\"text-black\">paintings</a></span>",
+          "subtitle3": "on canvas",
           "caption3": "",
-          "title4": "<span style=\"font-weight: normal;\"><a href=\"naaktmodel.html\" class=\"text-black\">naaktmodel</a></span>",
-          "subtitle4": "tekeningen",
+          "title4": "<span style=\"font-weight: normal;\"><a href=\"naaktmodel.html\" class=\"text-black\">nudemodel</a></span>",
+          "subtitle4": "drawings",
           "caption4": "",
-          "title5": "<span style=\"font-weight: normal;\"><a href=\"page13.html\" class=\"text-black\">atelier</a></span>",
+          "title5": "<span style=\"font-weight: normal;\"><a href=\"page13.html\" class=\"text-black\">workspace</a></span>",
           "subtitle5": "LUCA school of Arts",
           "caption5": ".",
           "title6": "Host Anywhere",
@@ -2628,9 +2633,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "2017.html",
               "size": "",
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media2": {
@@ -2640,9 +2646,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "schetsen.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media3": {
@@ -2652,9 +2659,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "2016 .html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media4": {
@@ -2664,9 +2672,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "werkworking.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media5": {
@@ -2749,6 +2758,97 @@
           ],
           "_name": "header1",
           "_anchor": "header1-23"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
         }
       ]
     }
