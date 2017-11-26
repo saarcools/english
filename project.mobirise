@@ -309,7 +309,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">drawings, oilpaint on paper&nbsp;</span>",
+          "text": "<span style=\"font-weight: normal;\">drawings</span><br><span style=\"font-weight: normal;\">oilpaint on paper&nbsp;</span>",
           "_tags": [
             "Theme"
           ],
@@ -745,7 +745,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0623-1-2000x1547-800x618.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0623-1-2000x1547.jpg",
-                "caption": "140x110cm, schilderdoek",
+                "caption": "140x110cm, canvas",
                 "active": true
               }
             ]
@@ -1202,7 +1202,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">drawings, oilpastel on paper</span>",
+          "text": "<span style=\"font-weight: normal;\">drawings</span><br><span style=\"font-weight: normal;\">oilpastel on paper</span>",
           "_tags": [
             "Theme"
           ],
@@ -2522,7 +2522,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">workspace Alexianenplein</span>",
+          "text": "<span style=\"font-weight: normal;\">workspace </span><br><span style=\"font-weight: normal;\">Alexianenplein</span>",
           "_tags": [
             "Theme"
           ],
