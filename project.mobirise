@@ -1614,9 +1614,10 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
+              "link": "page15.html",
+              "size": "",
+              "color": "black",
+              "newWindow": false
             }
           },
           "media6": {
@@ -2022,10 +2023,32 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bigworkaca3-2-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bigworkaca3-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naamloos-1-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-1-1890x1417.jpg",
                 "caption": "200x145cm , canvas",
                 "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca32-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca32-1890x1417.jpg",
+                "caption": "127x94cm , canvas",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca31-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca31-1890x1417.jpg",
+                "caption": "120x90cm , canvas",
+                "active": false,
                 "alt": ""
               }
             ]
