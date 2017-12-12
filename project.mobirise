@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "siteNED-03-03_0916GOEDEVERSIE",
+    "name": "siteENG-03-03_0916GOEDEVERSIE",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -20,12 +20,10 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": [
-        "#232323"
-      ]
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 82,
+    "uniqCompNum": 84,
     "versionPublish": "4.4.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -175,7 +173,7 @@
           },
           "title": "Saar Cools<br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/english/index.html\" data-toolbar=\"-mbrBtnMove\">DUTCH</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/NED\" data-toolbar=\"-mbrBtnMove\">DUTCH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/english/index.html\" data-toolbar=\"-mbrBtnMove\">ENGLISH</a> "
         },
         {
           "_params": {
@@ -183,7 +181,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><b>Over mezelf</b></p><p><br></p><p>studies </p><p>2013-2015 Maricolen, Brugge</p><p>2015-2017 Luca school of arts, Gent</p><p><br></p><p><br></p><p>Mijn inspiratiebron is in zijn brede zin de natuur. Ik experimenteer met textuur, structuur, vormen, lijnen en kleuren. Ik probeer een nieuwe interpretatie te vinden van een beeld in een landschap en speel met elementen van de natuur.</p><p><br></p>",
+          "text": "<p><b>About myself</b></p><p><br></p><p>studies </p><p>2013-2015 Maricolen, Bruges</p><p>2015-2017 Luca school of arts, Ghent</p><p><br></p><p><br></p><p>Nature is my source of inspriration. I experiment with texture, structure, shape, lines and colours.</p><p>I try to find a new interpetation of an image in a landscape and to play with elements of nature..</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -212,10 +210,10 @@
           "_anchor": "header6-p",
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
-            "inverse": false,
-            "showArrow": false,
+            "inverse": true,
+            "showArrow": true,
             "imageSize": "70",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/detail05.jpg",
@@ -249,7 +247,7 @@
             }
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "proces van mijn kunstwerk<br>2016",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -270,7 +268,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\" class=\"text-white\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
+          "text1": "<strong>Address</strong><br>workplace:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website: http://www.lucaschilderkunstgent.be/<br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -300,8 +298,11 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
           "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
             "STRONG": {
               "color": "#ffffff"
             }
@@ -334,7 +335,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">tekeningen</span><br><span style=\"font-weight: normal;\">olieverf op papier&nbsp;</span>",
+          "text": "<span style=\"font-weight: normal;\">drawings, oilpaint on paper&nbsp;</span>",
           "_tags": [
             "Theme"
           ],
@@ -531,7 +532,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">&nbsp;houten panelen</span>",
+          "text": "<span style=\"font-weight: normal;\">&nbsp;wooden panels</span>",
           "_tags": [
             "Theme"
           ],
@@ -729,7 +730,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">schilderijen</span>",
+          "text": "<span style=\"font-weight: normal;\">paintings</span>",
           "_tags": [
             "Theme"
           ],
@@ -988,7 +989,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">naaktmodel</span>",
+          "text": "<span style=\"font-weight: normal;\">nudemodel</span>",
           "_tags": [
             "Theme"
           ],
@@ -1025,7 +1026,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/nudemodel2-2-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/nudemodel2-2.jpg",
-                "caption": "A3, op papier",
+                "caption": "A3, on paper",
                 "active": false,
                 "alt": ""
               },
@@ -1036,7 +1037,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/nudemodel1-2-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/nudemodel1-2.jpg",
-                "caption": "A3, op papier",
+                "caption": "A3, on paper",
                 "active": true,
                 "alt": ""
               }
@@ -1077,7 +1078,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Addres</strong><br>werkplaats:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website :&nbsp;<a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\" class=\"text-white\"> http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
+          "text1": "<strong>Address</strong><br>workplace:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><strong><br></strong><br>website: http://www.lucaschilderkunstgent.be/<br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1107,8 +1108,11 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contacteer me</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>",
           "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
             "STRONG": {
               "color": "#ffffff"
             }
@@ -1204,6 +1208,35 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/detailwork2aca2-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-27"
         }
       ]
     },
@@ -1232,7 +1265,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">tekeningen</span><br><span style=\"font-weight: normal;\">oliepastel op papier</span>",
+          "text": "<span style=\"font-weight: normal;\">drawings, oilpastel on paper</span>",
           "_tags": [
             "Theme"
           ],
@@ -1533,10 +1566,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page12.html",
+              "link": "https://mobirise.com",
               "size": "",
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "media2": {
@@ -1546,10 +1578,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page11.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media3": {
@@ -1559,10 +1590,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page10.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media4": {
@@ -1572,10 +1602,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "naaktmodel.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media5": {
@@ -1586,7 +1615,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "page15.html",
-              "size": 0,
+              "size": "",
               "color": "black",
               "newWindow": false
             }
@@ -1604,23 +1633,23 @@
               "newWindow": false
             }
           },
-          "title1": "<a href=\"page12.html\" class=\"text-black\" style=\"font-weight: normal;\">houten panelen</a>",
+          "title1": "<a href=\"page12.html\" class=\"text-black\" style=\"font-weight: normal;\">wooden panels</a>",
           "subtitle1": "",
           "caption1": ".",
-          "title2": "<span style=\"font-weight: normal;\"><a href=\"page11.html\" class=\"text-black\">tekeningen</a></span>",
+          "title2": "<span style=\"font-weight: normal;\">drawings</span>",
           "subtitle2": "",
           "caption2": "",
           "title3": "<span style=\"font-weight: normal;\"><a href=\"page10.html\" class=\"text-black\">schilderijen</a></span>",
           "subtitle3": "op doek",
           "caption3": "",
-          "title4": "<span style=\"font-weight: normal;\"><a href=\"naaktmodel.html\" class=\"text-black\">naaktmodel</a></span>",
+          "title4": "<span style=\"font-weight: normal;\">nudemodel</span>",
           "subtitle4": "tekeningen",
           "caption4": "",
-          "title5": "<span style=\"font-weight: normal;\"><a href=\"page15.html\" class=\"text-black\">schetsen</a></span>",
-          "subtitle5": "vilt met stoffen draad",
+          "title5": "<span style=\"font-weight: normal;\"><a href=\"page15.html\" class=\"text-black\">sketches&nbsp;</a></span>",
+          "subtitle5": "on felt with thread",
           "caption5": ".",
-          "title6": "<span style=\"font-weight: normal;\"><a href=\"page13.html\" class=\"text-black\">atelier</a></span>",
-          "subtitle6": "LUCA school of Arts Gent",
+          "title6": "<span style=\"font-weight: normal;\"><a href=\"page13.html\" class=\"text-black\">workspace</a></span>",
+          "subtitle6": "LUCA school of arts Ghent",
           "caption6": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1781,7 +1810,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">naaktmodel</span>",
+          "text": "<span style=\"font-weight: normal;\">nudemodel</span>",
           "_tags": [
             "Theme"
           ],
@@ -1818,7 +1847,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0287aca2-800x1255.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0287aca2.jpg",
-                "caption": "A4, papier",
+                "caption": "A4, paper",
                 "active": false
               },
               {
@@ -1828,7 +1857,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca2-1-800x1302.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0085aca2-1.jpg",
-                "caption": "A4, papier",
+                "caption": "A4, paper",
                 "active": true
               }
             ]
@@ -1868,7 +1897,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">schilderijen</span>",
+          "text": "<span style=\"font-weight: normal;\">paintings</span>",
           "_tags": [
             "Theme"
           ],
@@ -1994,10 +2023,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bigworkaca3-2-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bigworkaca3-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naamloos-1-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naamloos-1-1890x1417.jpg",
                 "caption": "200x145cm , canvas",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -2019,7 +2048,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/aca31-1890x1417-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aca31-1890x1417.jpg",
                 "caption": "120x90cm , canvas",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
@@ -2038,7 +2067,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "drawings 2017",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2150,7 +2179,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">tekeningen</span>",
+          "text": "<span style=\"font-weight: normal;\">drawings</span>",
           "_tags": [
             "Theme"
           ],
@@ -2187,7 +2216,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tekening2-3-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tekening2-3.jpg",
-                "caption": "A4, oliepastel op papier",
+                "caption": "A4, oilpastel on paper",
                 "active": false,
                 "alt": ""
               },
@@ -2198,7 +2227,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tekening3-3-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tekening3-3.jpg",
-                "caption": "A4, oliepastel op papier",
+                "caption": "A4, oilpastel on paper",
                 "active": false,
                 "alt": ""
               },
@@ -2209,7 +2238,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/franmodel-3-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/franmodel-3.jpg",
-                "caption": "A4, olieverf op papier",
+                "caption": "A4, oilpaint on paper",
                 "active": false,
                 "alt": ""
               },
@@ -2220,7 +2249,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/modelfran2-3-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/modelfran2-3.jpg",
-                "caption": "A4 , olieverf op papier",
+                "caption": "A4 , oilpaint on paper",
                 "active": false,
                 "alt": ""
               },
@@ -2231,7 +2260,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tekeningbigwork-3-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tekeningbigwork-3.jpg",
-                "caption": "A4, oliepastel op papier",
+                "caption": "A4, oilpastel on paper",
                 "active": false,
                 "alt": ""
               },
@@ -2242,7 +2271,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/naamloos-3-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naamloos-3.jpg",
-                "caption": "30x10cm , oliepastel op papier",
+                "caption": "30x10cm , oilpastel on paper",
                 "active": true,
                 "alt": ""
               }
@@ -2262,7 +2291,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "wooden panels 2017",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2283,7 +2312,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">houten panelen</span>",
+          "text": "<span style=\"font-weight: normal;\">wooden panels</span>",
           "_tags": [
             "Theme"
           ],
@@ -2464,7 +2493,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "workspace 2017",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2576,7 +2605,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">atelier </span><br><span style=\"font-weight: normal;\">Alexianenplein</span>",
+          "text": "<span style=\"font-weight: normal;\">workspace Alexianenplein</span>",
           "_tags": [
             "Theme"
           ],
@@ -2648,97 +2677,6 @@
       },
       "components": [
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-0"
-        },
-        {
           "_styles": {
             ".card-subtitle": {
               "color": "#bcbcbc"
@@ -2778,10 +2716,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "2017.html",
+              "link": "https://mobirise.com",
               "size": "",
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "media2": {
@@ -2791,10 +2728,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "schetsen.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media3": {
@@ -2804,10 +2740,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "2016 .html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media4": {
@@ -2817,10 +2752,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "werkworking.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media5": {
@@ -2845,17 +2779,17 @@
               "family": "et-line"
             }
           },
-          "title1": "<span style=\"font-weight: normal;\"><a href=\"2017.html\" class=\"text-black\">houten panelen</a></span>",
+          "title1": "<span style=\"font-weight: normal;\"><a href=\"2017.html\" class=\"text-black\">houten panellen</a></span>",
           "subtitle1": "",
           "caption1": ".",
-          "title2": "<span style=\"font-weight: normal;\"><a href=\"schetsen.html\" class=\"text-black\">tekeningen</a></span>",
-          "subtitle2": "oliekrijt op papier",
+          "title2": "<span style=\"font-weight: normal;\"><a href=\"schetsen.html\" class=\"text-black\">drawings</a></span>",
+          "subtitle2": "oilpastel on paper",
           "caption2": "",
-          "title3": "<span style=\"font-weight: normal;\"><a href=\"2016 .html\" class=\"text-black\">tekeningen</a></span>",
-          "subtitle3": "olieverf op papier",
+          "title3": "<span style=\"font-weight: normal;\"><a href=\"2016 .html\" class=\"text-black\">drawings</a></span>",
+          "subtitle3": "oilpaint on paper",
           "caption3": "",
-          "title4": "<span style=\"font-weight: normal;\"><a href=\"werkworking.html\" class=\"text-black\">schilderijen</a></span>",
-          "subtitle4": "op canvas",
+          "title4": "<span style=\"font-weight: normal;\">paintings</span>",
+          "subtitle4": "on canvas",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -2908,9 +2842,9 @@
     },
     "page15.html": {
       "settings": {
-        "meta_descr": "Web Generator Description",
-        "title": "schetsen met vilt 2017",
-        "order": 11
+        "meta_descr": "Web Site Generator Description",
+        "title": "sketches felt",
+        "order": 8
       },
       "components": [
         {
@@ -2931,7 +2865,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">schetsen op vilt </span><br><span style=\"font-weight: normal;\">met stoffen draad</span>",
+          "text": "<span style=\"font-weight: normal;\">sketches, </span><br><span style=\"font-weight: normal;\">velt with thread</span>",
           "_tags": [
             "Theme"
           ],
@@ -2946,7 +2880,7 @@
               "font-size": "36px"
             }
           },
-          "_anchor": "social-buttons1-29"
+          "_anchor": "social-buttons1-2a"
         },
         {
           "_inherit": "menu",
@@ -3037,7 +2971,7 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_anchor": "ext_menu-27"
+          "_anchor": "ext_menu-28"
         },
         {
           "_inherit": "gallery1",
@@ -3093,7 +3027,7 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery2",
-          "_anchor": "gallery2-28"
+          "_anchor": "gallery2-29"
         }
       ]
     }
