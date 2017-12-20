@@ -3094,8 +3094,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "../../../web/app/themes/mobirise3/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stof2-1890x1417-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stof2-1890x1417.jpg",
+                "thumb": "file:///C:/Users/Saar/Documents/GitHub/site2/pro site/assets/images/stof2-1890x1417-800x599.jpg",
+                "image": "file:///C:/Users/Saar/Documents/GitHub/site2/pro site/assets/images/stof2-1890x1417.jpg",
                 "caption": "7 x 15cm",
                 "active": false,
                 "alt": ""
@@ -3105,8 +3105,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "../../../web/app/themes/mobirise3/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stof1-1890x1417-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stof1-1890x1417.jpg",
+                "thumb": "file:///C:/Users/Saar/Documents/GitHub/site2/pro site/assets/images/stof1-1890x1417-800x599.jpg",
+                "image": "file:///C:/Users/Saar/Documents/GitHub/site2/pro site/assets/images/stof1-1890x1417.jpg",
                 "caption": "8 x 5cm",
                 "active": false,
                 "alt": ""
@@ -3116,8 +3116,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "../../../web/app/themes/mobirise3/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stof3-1890x1417-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stof3-1890x1417.jpg",
+                "thumb": "file:///C:/Users/Saar/Documents/GitHub/site2/pro site/assets/images/stof3-1890x1417-800x599.jpg",
+                "image": "file:///C:/Users/Saar/Documents/GitHub/site2/pro site/assets/images/stof3-1890x1417.jpg",
                 "caption": "8 x 5cm",
                 "active": true,
                 "alt": ""
