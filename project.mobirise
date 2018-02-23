@@ -23,8 +23,8 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 85,
-    "versionPublish": "4.4.1",
+    "uniqCompNum": 100,
+    "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -138,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -164,7 +164,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/minipanel2aca3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aca3drawing1-1890x1417.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -186,7 +186,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><b>About myself</b></p><p><br></p><p>studies </p><p>2013-2015 Maricolen, Bruges</p><p>2015-2017 Luca school of arts, Ghent</p><p><br></p><p><br></p><p>Nature is my source of inspriration. I experiment with texture, structure, shape, lines and colours.</p><p>I try to find a new interpetation of an image in a landscape and to play with elements of nature..</p><p><br></p><p><br></p>",
+          "text": "<p><b>About myself</b></p><p><br></p><p>studies </p><p>2013-2015 Maricolen, Bruges</p><p>2015-2017 Luca school of arts, Ghent</p><p><br></p><p><br></p><p>Nature is my source of inspriration. I experiment with texture, structure, shape, lines and colours.</p><p>I try to find a new interpetation of an image in a landscape and to play with elements of nature.</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -215,7 +215,7 @@
           "_anchor": "header6-p",
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": true,
             "showArrow": true,
@@ -252,7 +252,7 @@
             }
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "Process of my artwork<br>2016",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -706,7 +706,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -874,7 +874,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -974,7 +974,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_params": {
@@ -1062,7 +1062,7 @@
       "settings": {
         "title": "contact",
         "meta_descr": "Website Maker Description",
-        "order": 14
+        "order": 18
       },
       "components": [
         {
@@ -1212,7 +1212,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_params": {
@@ -1429,7 +1429,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -1528,7 +1528,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_anchor": "ext_menu-z"
         },
         {
@@ -1571,10 +1571,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page12.html",
+              "link": "https://mobirise.com",
               "size": "",
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "media2": {
@@ -1584,10 +1583,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page11.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media3": {
@@ -1597,10 +1595,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "page10.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media4": {
@@ -1610,10 +1607,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "naaktmodel.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media5": {
@@ -1648,8 +1644,8 @@
           "title2": "<span style=\"font-weight: normal;\">drawings</span>",
           "subtitle2": "",
           "caption2": "",
-          "title3": "<span style=\"font-weight: normal;\"><a href=\"page10.html\" class=\"text-black\">paintings</a></span>",
-          "subtitle3": "<p>on canvas</p>",
+          "title3": "<span style=\"font-weight: normal;\"><a href=\"page10.html\" class=\"text-black\">schilderijen</a></span>",
+          "subtitle3": "op doek",
           "caption3": "",
           "title4": "<span style=\"font-weight: normal;\">nudemodel</span>",
           "subtitle4": "tekeningen",
@@ -1729,7 +1725,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2011,7 +2007,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_anchor": "ext_menu-15"
         },
         {
@@ -2167,7 +2163,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_anchor": "ext_menu-17"
         },
         {
@@ -2426,7 +2422,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_anchor": "ext_menu-19"
         },
         {
@@ -2593,7 +2589,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_anchor": "ext_menu-1b"
         },
         {
@@ -2725,10 +2721,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "2017.html",
+              "link": "https://mobirise.com",
               "size": "",
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "media2": {
@@ -2738,10 +2733,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "schetsen.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media3": {
@@ -2751,10 +2745,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "2016 .html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media4": {
@@ -2764,10 +2757,9 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "werkworking.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "media5": {
@@ -2792,7 +2784,7 @@
               "family": "et-line"
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">wooden panels</span>",
+          "title1": "<span style=\"font-weight: normal;\"><a href=\"2017.html\" class=\"text-black\">houten panellen</a></span>",
           "subtitle1": "",
           "caption1": ".",
           "title2": "<span style=\"font-weight: normal;\"><a href=\"schetsen.html\" class=\"text-black\">drawings</a></span>",
@@ -2801,7 +2793,7 @@
           "title3": "<span style=\"font-weight: normal;\"><a href=\"2016 .html\" class=\"text-black\">drawings</a></span>",
           "subtitle3": "oilpaint on paper",
           "caption3": "",
-          "title4": "<span style=\"font-weight: normal;\"><a href=\"werkworking.html\" class=\"text-black\">paintings</a></span>",
+          "title4": "<span style=\"font-weight: normal;\">paintings</span>",
           "subtitle4": "on canvas",
           "caption4": "",
           "title5": "Trendy Website Blocks",
@@ -2850,96 +2842,6 @@
           ],
           "_name": "header1",
           "_anchor": "header1-23"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-2c"
         }
       ]
     },
@@ -3073,7 +2975,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOMEPAGE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_anchor": "ext_menu-28"
         },
         {
@@ -3131,6 +3033,823 @@
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-29"
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "2018",
+        "order": 14
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_anchor": "ext_menu-2c"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "more-horizontal",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page17.html",
+              "size": "",
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "more-horizontal",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page18.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "more-horizontal",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page19.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "more-horizontal",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "werkworking.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\"><a href=\"page16.html\" class=\"text-black\">paintings</a></span>",
+          "subtitle1": "on canvas",
+          "caption1": ".",
+          "title2": "<span style=\"font-weight: normal;\">drawings<a href=\"page19.html\" class=\"text-black\">&nbsp;</a></span>",
+          "subtitle2": "on paper",
+          "caption2": "",
+          "title3": "<span style=\"font-weight: normal;\"><a href=\"page19.html\" class=\"text-black\">jury</a></span>",
+          "subtitle3": "",
+          "caption3": "",
+          "title4": "<span style=\"font-weight: normal;\"><a href=\"werkworking.html\" class=\"text-black\">schilderijen</a></span>",
+          "subtitle4": "op canvas",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-2k"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/detail2work4aca3-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2l"
+        }
+      ]
+    },
+    "page17.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "canvas 2018",
+        "order": 15
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">paintings</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "social-buttons1-2n"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_anchor": "ext_menu-2e"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "6",
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3jury2-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3jury2-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3jury4-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3jury4-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3jury5-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3jury5-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3jury6-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3jury6-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3jury3-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3jury3-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-2m"
+        }
+      ]
+    },
+    "page18.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "drawings2018",
+        "order": 16
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_anchor": "ext_menu-2g"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">drawings</span><br><span style=\"font-weight: normal;\">oilpaint on paper</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "social-buttons1-2o"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "6",
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3drawing1-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3drawing1-1890x14170.jpg",
+                "caption": "&nbsp;",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-2p"
+        }
+      ]
+    },
+    "page19.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "jury 2018",
+        "order": 17
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">jury</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "social-buttons1-2r"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Saar Cools</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">2018</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mail.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_anchor": "ext_menu-2i"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "6",
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aca3jury-1890x1417-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aca3jury-1890x1417.jpg",
+                "caption": "&nbsp;",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-2q"
         }
       ]
     }
