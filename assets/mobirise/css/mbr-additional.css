@@ -484,14 +484,12 @@ h6,
 #header1-1 .mbr-section-title SPAN {
   font-size: 32px;
 }
+#header2-2s .mbr-section-text {
+  text-align: left;
+  color: #747578;
+}
 #content1-26 P {
   text-align: left;
-}
-#header6-p .mbr-section-title {
-  color: #28262b;
-}
-#header6-p .mbr-section-text {
-  color: #565656;
 }
 #contacts4-2 P {
   color: #ffffff;
